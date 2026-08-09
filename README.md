@@ -20,7 +20,7 @@ Here’s a quick overview of my skill set and tools I use:
 ![.NET Web API](https://img.shields.io/badge/.NET_Web_API-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=ffffff)
 ---
 
 ### 🗄️ Databases
