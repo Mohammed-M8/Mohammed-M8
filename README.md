@@ -1,11 +1,7 @@
-## 👋 Hi, I'm Mohammed
-
-I'm a developer passionate about building useful applications across web and game platforms.  
-Here’s a quick overview of my skill set and tools I use:
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&duration=200&pause=1000&color=B5F700&background=000000&multiline=true&repeat=false&width=700&height=120&lines=Hi+I+am+Mohammed!;I'm+a+developer+passionate+about+building+useful;applications+across+web+and+game+platforms.+;Here%E2%80%99s+a+quick+overview+of+my+skill+set+and+tools+I+use%3A)](https://git.io/typing-svg)
 ---
 
-### 💻 Languages
+### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -16,7 +12,7 @@ Here’s a quick overview of my skill set and tools I use:
 
 ---
 
-### 🧰 Frameworks & Libraries
+### Frameworks & Libraries
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=ffffff)
@@ -26,14 +22,14 @@ Here’s a quick overview of my skill set and tools I use:
 
 ---
 
-### 🗄️ Databases
+### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-### 🔧 Tools & IDEs
+### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
@@ -41,3 +37,6 @@ Here’s a quick overview of my skill set and tools I use:
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed-M8&theme=hacker&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
